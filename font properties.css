@@ -1,0 +1,41 @@
+.g{
+    background-color: white;
+    display: inline;
+}
+.m{
+    color: coral;
+    text-align: right;
+    text-decoration: overline;
+}
+.e{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230927/pngtree-white-desk-with-green-plants-in-a-modern-home-office-image_13151127.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.i1 img{
+    border:2px solid gray;
+    width: 150px;
+    height: 150px;
+    object-fit: fill;
+    box-shadow: 3px 3px 3px black;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.i2 img{
+    border:2px solid gray;
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    box-shadow: 3px 3px 3px black;
+}
+.li{
+    border: 2px solid grey;
+    margin-top: 30px;
+    width: 150px;
+    background: linear-gradient(lightgrey,grey,darkgrey);
+    box-shadow: 3px 3px 3px black;
+}
